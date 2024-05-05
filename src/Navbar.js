@@ -8,7 +8,7 @@ const Navbar = () => {
     return ( 
         <nav className="navbar">
             <div className="left">
-                <a href="/"><img id="logo" src="imclogo.png" alt="" /></a>
+                <a href="#"><img id="logo" src="imclogo.png" alt="" /></a>
                 <h1>Isamm Microsoft club</h1>
             </div>
             <button className="hamburger" onClick={toggleMenu}>
