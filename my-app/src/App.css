@@ -108,7 +108,6 @@ h1{
         overflow: hidden;
         z-index: 10;
     }
-
     .active {
         height: 450px;
     }
@@ -247,6 +246,9 @@ h1{
 .sp1{
     text-align: center;
 }
+.tawi h1{
+    text-align: center;
+}
 /*css home*/
 @media only screen and (max-width:900px){
     .sp1{
@@ -365,15 +367,16 @@ h1{
     letter-spacing: 1.5px;
     line-height: 30px;
 }
-.aboutus .box .text button{
+.aboutus .box .text #button{
     background-color: #349FD9;
     color: rgb(14, 0, 0);
     width: 150px;
     height: 30px;
     border-color: transparent;
     font-size: large;
+    text-align: center;
 }
-.aboutus .box .text button:hover{
+.aboutus .box .text #button:hover{
     background-color: #000000;
     color: #349FD9;
     cursor: pointer;
@@ -418,8 +421,8 @@ h1{
     .aboutus .image2{
         position:sticky;
         width: 100px;
-        bottom: 764px;
-        right: 600px;
+        bottom: 704px;
+        right: 630px;
     }
     .aboutus .box:hover{
         background: linear-gradient(#D9D9D9 1%, rgb(255, 255, 255) 20%, #D9D9D9 100%);

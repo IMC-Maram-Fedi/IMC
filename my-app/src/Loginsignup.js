@@ -38,9 +38,9 @@ const loginsignup = () => {
                     <div className="followus">
                         follow us on :
                         <div className="socials">
-                            <a href=""><img className="in1" src="insta.png" alt="insta" /></a> 
-                            <a href=""><img className="in2"  src="fb.png" alt="fb" /></a>
-                            <a href=""><img className="in3" src="linkedin.png" alt="linkedin" /></a>
+                            <a href="https://www.instagram.com/isamm_microsoft_club/"target="_blank"><img className="in1" src="insta.png" alt="insta" /></a> 
+                            <a href="https://www.facebook.com/IsammMicrosoftClub" target="_blank"><img className="in2"  src="fb.png" alt="fb" /></a>
+                            <a href="https://www.linkedin.com/company/isamm-microsoft-club/mycompany/" target="_blank"><img className="in3" src="linkedin.png" alt="linkedin" /></a>
                         </div>
                     </div>
                 </div>
